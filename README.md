@@ -9,4 +9,6 @@ Requirements:
 - Styled & polished
 <br>
 <br>
-<p align="center"><img src="src/images/project-thumbnail.png" width="70%"/><p>
+
+![image](https://github.com/alishabhale/meme-generator/assets/44771856/455e9e2c-dcd6-4691-a446-79ab81fbc226)
+
